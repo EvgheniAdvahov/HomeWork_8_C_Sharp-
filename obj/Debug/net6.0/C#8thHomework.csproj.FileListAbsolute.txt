@@ -1,0 +1,15 @@
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\bin\Debug\net6.0\C#8thHomework.exe
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\bin\Debug\net6.0\C#8thHomework.deps.json
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\bin\Debug\net6.0\C#8thHomework.runtimeconfig.json
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\bin\Debug\net6.0\C#8thHomework.dll
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\bin\Debug\net6.0\C#8thHomework.pdb
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\obj\Debug\net6.0\C#8thHomework.csproj.AssemblyReference.cache
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\obj\Debug\net6.0\C#8thHomework.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\obj\Debug\net6.0\C#8thHomework.AssemblyInfoInputs.cache
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\obj\Debug\net6.0\C#8thHomework.AssemblyInfo.cs
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\obj\Debug\net6.0\C#8thHomework.csproj.CoreCompileInputs.cache
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\obj\Debug\net6.0\C#8thHomework.dll
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\obj\Debug\net6.0\refint\C#8thHomework.dll
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\obj\Debug\net6.0\C#8thHomework.pdb
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\obj\Debug\net6.0\C#8thHomework.genruntimeconfig.cache
+G:\My Drive\GeekBrains\Homework\C#\C#8thHomework\obj\Debug\net6.0\ref\C#8thHomework.dll
